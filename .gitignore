@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
 # dependencies
@@ -39,3 +40,6 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+=======
+# use gitignore.io to create this.
+>>>>>>> ddb10b6c95258d2d53269f25930c46c1a09f6e3d
